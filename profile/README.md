@@ -26,9 +26,9 @@ Here is CuteLibs Team:
 
 ## Contribute
 
-Please fork CuteLibs repository and contribute back using pull requests.
+Please fork CuteLibs repositories and contribute back using pull requests.
 
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed .
+Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed .
 
 Let us know which features you want in the future in Request Feature tab.
 
