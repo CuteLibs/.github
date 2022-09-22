@@ -1,10 +1,10 @@
 <h1><p align="center">CuteLibs - Smart & Beautiful Android Libraries</p></h1>
 
-<p align="center"> <img src="https://img.shields.io/badge/platform-Android-red.svg?style=for-the-badge" alt="android" /> <img src="https://img.shields.io/badge/language-Java-green.svg?style=for-the-badge" alt="android" /> <img src="https://img.shields.io/badge/distribution-Jitpack-blue.svg?style=for-the-badge" alt="android" /> </p> 
+<p align="center"> <img src="https://img.shields.io/badge/platform-Android-red.svg?style=for-the-badge" alt="android" /> <img src="https://img.shields.io/badge/language-Java-green.svg?style=for-the-badge" alt="android" /> <img src="https://img.shields.io/badge/distribution-Jitpack-blue.svg?style=for-the-badge" alt="android" /> </p>
 
 ## What is CuteLibs
 
-CuteLibs is an open-source project for Android. 
+CuteLibs is an open-source project for Android.
 
 Getting useful libraries for Android Projects and making sure the Work Properly is a HASSLE. CuteLibs is created in order to make life easier. CuteLibs will create, store and maintain important Android Libraries for the developer community.
 
@@ -18,10 +18,13 @@ CuteLibs has one main goal, which is to reduce the coding and hassle for an Andr
 ## Creations
 (Here is a list of CuteLibs creations:)
 
+<table><tr>  <td>  Icon  </td> <td> Name </td> <td> Description </td>   <td> Contributor(s) </td>  </tr>
+<tr>  <td> <img src="https://github.com/CuteLibs/.github/raw/master/files/cute_dialog.png" width="50px">   </td> <td> <a href="https://github.com/CuteLibs/CuteDialog"><b>CuteDialog</b></a> </td> <td> Highly Customizable Material Design Dialog Library </td>  <td>  <a href="https://github.com/ahmmedrejowan" align="center">K M Rejowan Ahmmed</a> </td>  </tr> </table>
+
 <a href="https://github.com/orgs/CuteLibs/repositories">See more</a>
 
-## Team
-Here is CuteLibs Team:
+## Contributor(s)
+Here is CuteLibs Contributor(s):
 <table><tr> <td> <a href="https://github.com/ahmmedrejowan" align="center"> <img src="https://avatars.githubusercontent.com/u/42619122" width="50px"> </a>  </td> <td> <a href="https://github.com/ahmmedrejowan" align="center">K M Rejowan Ahmmed</a> </td> </tr> </table>
 
 ## Contribute
@@ -54,4 +57,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ```
-
