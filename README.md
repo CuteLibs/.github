@@ -18,11 +18,14 @@ CuteLibs has one main goal, which is to reduce the coding and hassle for an Andr
 ## Creations
 (Here is a list of CuteLibs creations:)
 
+<table><tr>  <td>  Icon  </td> <td> Name </td> <td> Description </td>   <td> Contributor(s) </td>  </tr>
+<tr>  <td> <img src="https://github.com/CuteLibs/.github/raw/master/files/cute_dialog.png" width="50px">   </td> <td> <a href="https://github.com/CuteLibs/CuteDialog"><b>CuteDialog</b></a> </td> <td> Highly Customizable Material Design Dialog Library </td>  <td>  <a href="https://github.com/ahmmedrejowan" align="center">K M Rejowan Ahmmed</a> </td>  </tr> </table>
+
 <a href="https://github.com/orgs/CuteLibs/repositories">See more</a>
 
-## Team
-Here is CuteLibs Team:
-<table><tr> <td> <img src="https://avatars.githubusercontent.com/u/42619122" width="50px">  </td> <td> <a href="" align="center">K M Rejowan Ahmmed</a> </td> </tr> </table>
+## Contributor(s)
+Here is CuteLibs Contributor(s):
+<table><tr> <td> <a href="https://github.com/ahmmedrejowan" align="center"> <img src="https://avatars.githubusercontent.com/u/42619122" width="50px"> </a>  </td> <td> <a href="https://github.com/ahmmedrejowan" align="center">K M Rejowan Ahmmed</a> </td> </tr> </table>
 
 ## Contribute
 
