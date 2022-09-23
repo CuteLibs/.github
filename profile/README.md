@@ -13,19 +13,16 @@ Getting useful libraries for Android Projects and making sure the Work Properly 
 CuteLibs has one main goal, which is to reduce the coding and hassle for an Android App Developer. These are the fields CuteLibs will focus on:
 - Creating new and modifying old Android libraries
 - Maintaining projects in the long run.
-- Ensuring more stable and more quality work.
+- Ensuring stable and quality work.
 
 ## Creations
 (Here is a list of CuteLibs creations:)
 
-<table><tr>  <td>  Icon  </td> <td> Name </td> <td> Description </td>   <td> Contributor(s) </td>  </tr>
-<tr>  <td> <img src="https://github.com/CuteLibs/.github/raw/master/files/cute_dialog.png" width="50px">   </td> <td> <a href="https://github.com/CuteLibs/CuteDialog"><b>CuteDialog</b></a> </td> <td> Highly Customizable Material Design Dialog Library </td>  <td>  <a href="https://github.com/ahmmedrejowan" align="center">K M Rejowan Ahmmed</a> </td>  </tr> </table>
+<table><tr>  <td>  Icon  </td> <td> Name </td> <td> Description </td>  </tr>
+<tr>  <td> <img src="https://github.com/CuteLibs/.github/raw/master/files/cute_dialog.png" width="50px">   </td> <td> <a href="https://github.com/CuteLibs/CuteDialog"><b>CuteDialog</b></a> </td> <td> Highly Customizable Material Design Dialog Library </td>  </tr> </table>
 
 <a href="https://github.com/orgs/CuteLibs/repositories">See more</a>
 
-## Contributor(s)
-Here is CuteLibs Contributor(s):
-<table><tr> <td> <a href="https://github.com/ahmmedrejowan" align="center"> <img src="https://avatars.githubusercontent.com/u/42619122" width="50px"> </a>  </td> <td> <a href="https://github.com/ahmmedrejowan" align="center">K M Rejowan Ahmmed</a> </td> </tr> </table>
 
 ## Contribute
 
