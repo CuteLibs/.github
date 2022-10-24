@@ -19,7 +19,7 @@ CuteLibs has one main goal, which is to reduce the coding and hassle for an Andr
 (Here is a list of CuteLibs creations:)
 
 <table><tr>  <td>  Icon  </td> <td> Name </td> <td> Description </td>  </tr>
-<tr>  <td> <img src="https://github.com/CuteLibs/.github/raw/master/files/cute_dialog.png" width="50px">   </td> <td> <a href="https://github.com/CuteLibs/CuteDialog"><b>CuteDialog</b></a> </td> <td> Highly Customizable Material Design Dialog Library </td>  </tr> </table>
+<tr>  <td> <img src="https://github.com/CuteLibs/CuteDialog/raw/master/files/libaray_icon.png" width="50px">   </td> <td> <a href="https://github.com/CuteLibs/CuteDialog"><b>CuteDialog</b></a> </td> <td> Highly Customizable Material Design Dialog Library </td>  </tr> </table>
 
 <a href="https://github.com/orgs/CuteLibs/repositories">See more</a>
 
